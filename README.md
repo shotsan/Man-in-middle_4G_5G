@@ -1,3 +1,6 @@
+
+# This project has example code to build analog relay with USRP x310 using RFNOC loopback. 
+
 # USRP Hardware Driver (UHD™) Software
 
 Welcome to the UHD™ software distribution! UHD is the free & open-source
