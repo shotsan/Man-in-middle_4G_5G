@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=shotsan)
 # This project has example code to build analog relay with USRP x310 using RFNOC loopback. 
 
 # USRP Hardware Driver (UHD™) Software
