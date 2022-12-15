@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=shotsan)
-![Demo CSS Style](https://raw.githubusercontent.com/shotsan/60GHz-mmWave-python-dash-api/main/demo_stlye.png)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) 
 # This project has example code to build analog relay with USRP x310 using RFNOC loopback. 
 
