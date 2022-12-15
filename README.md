@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=shotsan)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Crostatus/Jitter) ![GitHub](https://img.shields.io/github/license/Crostatus/Jitter) 
+![File Count](https://img.shields.io/github/directory-file-count/shotsan/infinitelooper)
+![Repo Size](https://img.shields.io/github/repo-size/shotsan/infinitelooper?color=green&style=for-the-badge)
 # This project has example code to build analog relay with USRP x310 using RFNOC loopback. 
 
 # USRP Hardware Driver (UHD™) Software
