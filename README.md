@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=shotsan)
 
 ![File Count](https://img.shields.io/github/directory-file-count/shotsan/infinitelooper)
 ![Repo Size](https://img.shields.io/github/repo-size/shotsan/infinitelooper?color=green&style=for-the-badge)
