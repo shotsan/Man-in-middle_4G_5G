@@ -3,7 +3,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/shotsan/infinitelooper?color=green&style=for-the-badge)
 
 
-# Analog Radio Relay built with USRP x310 using RFNOC loopback. 
+# Analog Radio Relay built using USRP x310 and RFNOC loopback. 
 
 A relay listens of one frequency and forwards it on another frequency. 
 USRP x310 has two  independent RF chains. Chain 1 listens on frequency say 2.4 GHz
@@ -17,8 +17,8 @@ Project can be used for a variety of applications
 USRP X310 operates on wide range of frequencies. Please see the [documentation](https://kb.ettus.com/X300/X310)   
 So you can pretty much operate it as relay on any band. Please use it responsibly!
 
-We want our relay to add minimal additional delay. So, we use RF Network on Chip(RF-NOC) available for X310.
-RFNOC reduces load on host machine taking advantage of large FPGA available. Intensive processing can be offloaded on to
+We want our relay to add minimal additional delay while forwarding the packets. So, we use RF Network on Chip(RF-NOC) available for X310.
+RFNOC reduces load on host machine taking advantage of large FPGA available on X310. Intensive processing can be offloaded on to
 FPGA modules. Additional [documentation](https://www.ettus.com/sdr-software/rfnoc/) 
 
 ---
@@ -31,6 +31,11 @@ FPGA modules. Additional [documentation](https://www.ettus.com/sdr-software/rfno
 1. UHD driver
  
 Please find additional [documentation](https://github.com/EttusResearch/uhd)
+
+
+# Built instructions
+
+go the [project folder](host/examples/init_usrp)
  
 
 
