@@ -68,3 +68,5 @@ Samples per packet, ideally the least. We observe the good range value -[20,40]
 ```
         ("spp", po::value<size_t>(&spp)->default_value(40), "Samples per packet (reduce for lower latency)")
 ```
+
+[License](https://github.com/shotsan/infinitelooper/blob/51ac1b9a1ce1f448ec6e66cdf7a888a212486d79/LICENSE.md)
